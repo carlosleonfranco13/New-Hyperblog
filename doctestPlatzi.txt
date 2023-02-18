@@ -1,4 +1,5 @@
 Esta es la historia de Carlos Leon:
-Tengo 31 años, pronto 32 años y soy Frontend developer.
-Me gustan los huevitos revueltos y me encantan los platanitos
-asados con proteina. Últimamente el agua con sal.
+Tengo 31 años y soy Frontend developer.
+Me gusta la bandeja paisa y me encantan los platanitos asados con proteina.
+
+Mañana nos enfocaremos en su vida laboral.
