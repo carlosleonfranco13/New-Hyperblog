@@ -15,6 +15,19 @@ body{
     border: 1px solid rgb(222, 222, 222);
     margin: 0 auto;
 }
+#cabecera{
+    background: rgb(81, 81, 239);
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#tagline{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 h1{
     font-size: 20px;
 }
